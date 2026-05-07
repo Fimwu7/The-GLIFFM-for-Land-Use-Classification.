@@ -1,6 +1,5 @@
 
-# [<img width="688" height="259" alt="ScreenShot_2026-05-07_144413_960" src="https://github.com/user-attachments/assets/f2c78f8e-e72c-4344-bb7c-e6ae50dead8e" />
-Land-Use Classification of High-Resolution Remote Sensing Imagery Incorporating Global–Local Interactive Features Across Optical Domain and Land Cover Primitives](https://ieeexplore.ieee.org/document/11417990/metrics#metrics)
+# [Land-Use Classification of High-Resolution Remote Sensing Imagery Incorporating Global–Local Interactive Features Across Optical Domain and Land Cover Primitives](https://ieeexplore.ieee.org/document/11417990/metrics#metrics)
 
 ---
 
@@ -11,24 +10,20 @@ Land-Use Classification of High-Resolution Remote Sensing Imagery Incorporating 
 ># Introduction
 
 **GLIFFM** is a novel deep learning framework designed for land-use classification. It achieves superior performance by effectively incorporating land-cover primitives and integrating global-local interactive features across the optical domain.
-
-<img width="688" height="259" alt="ScreenShot_2026-05-07_144413_960" src="https://github.com/user-attachments/assets/320f9c08-9e21-419f-aa19-bbd20009024d" />
-
+[Overall.pdf](https://github.com/user-attachments/files/27468462/Overall.pdf)
 ---
-
-# Image Classification
-
-## 1. Requirements
-
-We highly suggest using our provided dependencies to ensure reproducibility:
-
+# Requirements
 ```yaml
 # Environments:
 cuda==11.6
-python==3.8.15
+python==3.8.20
 
 # Packages:
 mmcv==1.7.1
 timm==0.6.12
-torch==1.13.1
-torchvision==0.14.1
+torch==1.12.1
+torchvision==0.13.1
+[segmentation_models_pytorch](https://github.com/qubvel-org/segmentation_models.pytorch)
+---
+
+# 🤝 Acknowledgements
