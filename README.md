@@ -7,10 +7,11 @@
 >
 > Paper: [IEEE TGRS](https://ieeexplore.ieee.org/document/11417990/metrics#metrics) 
 > 
-># Introduction
+# Introduction
 
 **GLIFFM** is a novel deep learning framework designed for land-use classification. It achieves superior performance by effectively incorporating land-cover primitives and integrating global-local interactive features across the optical domain.
-[Overall.pdf](https://github.com/user-attachments/files/27468462/Overall.pdf)
+<img width="680" height="252" alt="ScreenShot_2026-05-07_145817_121" src="https://github.com/user-attachments/assets/53dff8ac-3951-4a4c-9166-05652162f5e4" />
+
 ---
 # Requirements
 ```yaml
@@ -24,5 +25,6 @@ timm==0.6.12
 torch==1.12.1
 torchvision==0.13.1
 segmentation_models_pytorch
+```
 ---
 # 🤝 Acknowledgements
