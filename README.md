@@ -23,7 +23,6 @@ mmcv==1.7.1
 timm==0.6.12
 torch==1.12.1
 torchvision==0.13.1
-[segmentation_models_pytorch](https://github.com/qubvel-org/segmentation_models.pytorch)
+segmentation_models_pytorch
 ---
-
 # 🤝 Acknowledgements
