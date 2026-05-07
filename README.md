@@ -38,4 +38,4 @@ This project is built upon the following excellent open-source work:
 
 * **[Segmentation Models PyTorch](https://github.com/qubvel-org/segmentation_models.pytorch)**: We thank the contributors of `segmentation_models_pytorch` for providing efficient implementations of various segmentation architectures.
 
-* **Dataset Providers**: We are grateful to the providers of the **GID5** and **EuroSAT** datasets for their valuable contributions to the remote sensing community.
+* **Dataset Providers**: We are grateful to the providers of the **WHDLD** and **EuroSAT** datasets for their valuable contributions to the remote sensing community.
