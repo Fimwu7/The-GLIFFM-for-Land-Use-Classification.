@@ -29,9 +29,6 @@ segmentation_models_pytorch
 ```
 ---
 # 🤝 Acknowledgements
----
-
-# 🤝 Acknowledgements
 
 This project is built upon the following excellent open-source work:
 
