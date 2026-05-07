@@ -10,7 +10,8 @@
 # Introduction
 
 **GLIFFM** is a novel deep learning framework designed for land-use classification. It achieves superior performance by effectively incorporating land-cover primitives and integrating global-local interactive features across the optical domain.
-<img width="680" height="252" alt="ScreenShot_2026-05-07_145817_121" src="https://github.com/user-attachments/assets/53dff8ac-3951-4a4c-9166-05652162f5e4" />
+<img width="835" height="276" alt="Overall0729 drawio" src="https://github.com/user-attachments/assets/4a1820cf-c70c-4c5a-9697-f90545feab5b" />
+
 
 ---
 # Requirements
@@ -28,3 +29,16 @@ segmentation_models_pytorch
 ```
 ---
 # 🤝 Acknowledgements
+---
+
+# 🤝 Acknowledgements
+
+This project is built upon the following excellent open-source work:
+
+* **[TransXNet](https://github.com/LMMMEng/TransXNet)**: We employ TransXNet as the backbone in our **GLIFFM** architecture to capture comprehensive global-local dynamics. We sincerely thank the authors for their inspiring work and for making their code publicly available.
+    
+    > **Reference:** M. Lou et al., "TransXNet: Learning Both Global and Local Dynamics With a Dual Dynamic Token Mixer for Visual Recognition," *IEEE TNNLS*, 2025.
+
+* **[Segmentation Models PyTorch](https://github.com/qubvel-org/segmentation_models.pytorch)**: We thank the contributors of `segmentation_models_pytorch` for providing efficient implementations of various segmentation architectures.
+
+* **Dataset Providers**: We are grateful to the providers of the **GID5** and **EuroSAT** datasets for their valuable contributions to the remote sensing community.
